@@ -1,0 +1,19 @@
+{
+  "name": "new-apollo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "@apollo/server": "^4.10.4",
+    "apollo-server-express": "^3.5.0",
+    "graphql": "^16.8.1",
+    "uuid": "^8.3.2"
+  }
+}
